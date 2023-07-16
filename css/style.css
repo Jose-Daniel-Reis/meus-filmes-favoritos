@@ -1,0 +1,20 @@
+img {
+  float: left;
+  padding-right: 10px;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+h1 {
+  border-bottom-style: inset;
+}
+.tarefa-selecionada {
+  color: red;
+  font-style: italic;
+}
+.tarefa-normal {
+  color: black;
+}
+.alinha-direita {
+  text-align: right;
+}
